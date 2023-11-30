@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.App.CheckBox" parent="Widget.Material3.CompoundButton.CheckBox">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.CheckBox</item>
+    </style>
+
+    <style name="ThemeOverlay.App.CheckBox" parent="">
+        <item name="colorPrimary">@color/color_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSurfaceVariant">@color/support_separator</item>
+    </style>
+</resources>

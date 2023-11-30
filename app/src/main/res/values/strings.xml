@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">ToDoApp</string>
+    <string name="app_name" translatable="false">ToDoApp</string>
+
+    <string name="todolist_title">My todos</string>
+    <string name="todolist_subtitle">Completed</string>
+    <string name="todolist_subtitle_msg_done_count" translatable="false">– %1$d</string>
+    <string name="action_add_todo">Action add Todo</string>
 </resources>
